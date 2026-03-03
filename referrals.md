@@ -1,9 +1,7 @@
 ---
 layout: default
-title: Referral Program
+title: РЕФЕРАЛЬНАЯ ПРОГРАММА ONECLICK@VPN — ПОЛНОЕ РУКОВОДСТВО
 ---
-
-# РЕФЕРАЛЬНАЯ ПРОГРАММА ONECLICK@VPN — ПОЛНОЕ РУКОВОДСТВО
 
 ---
 
